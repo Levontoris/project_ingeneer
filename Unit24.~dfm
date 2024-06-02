@@ -1,0 +1,226 @@
+object Form24: TForm24
+  Left = 345
+  Top = 155
+  Width = 482
+  Height = 324
+  Caption = #1056#1045#1043#1048#1057#1058#1056#1040#1062#1048#1071
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 466
+    Height = 286
+    Align = alClient
+    Color = 13814453
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 80
+      Top = 72
+      Width = 56
+      Height = 19
+      Alignment = taCenter
+      Caption = #1051#1054#1043#1048#1053
+      Color = clWhite
+      Font.Charset = RUSSIAN_CHARSET
+      Font.Color = clBlack
+      Font.Height = -16
+      Font.Name = 'Sitka Text'
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+    object Label2: TLabel
+      Left = 80
+      Top = 120
+      Width = 68
+      Height = 19
+      Alignment = taCenter
+      Caption = #1055#1040#1056#1054#1051#1068
+      Color = clWhite
+      Font.Charset = RUSSIAN_CHARSET
+      Font.Color = clBlack
+      Font.Height = -16
+      Font.Name = 'Sitka Text'
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+    object Shape6: TShape
+      Left = 40
+      Top = 48
+      Width = 385
+      Height = 1
+      Pen.Color = clWhite
+    end
+    object Shape1: TShape
+      Left = 40
+      Top = 168
+      Width = 385
+      Height = 1
+      Pen.Color = clWhite
+    end
+    object Shape2: TShape
+      Left = 40
+      Top = 48
+      Width = 1
+      Height = 121
+      Pen.Color = clWhite
+    end
+    object Shape3: TShape
+      Left = 424
+      Top = 48
+      Width = 1
+      Height = 121
+      Pen.Color = clWhite
+    end
+    object Shape4: TShape
+      Left = 88
+      Top = 184
+      Width = 289
+      Height = 1
+      Pen.Color = clWhite
+    end
+    object Shape5: TShape
+      Left = 88
+      Top = 232
+      Width = 289
+      Height = 1
+      Pen.Color = clWhite
+    end
+    object Shape7: TShape
+      Left = 88
+      Top = 184
+      Width = 1
+      Height = 49
+      Pen.Color = clWhite
+    end
+    object Shape8: TShape
+      Left = 376
+      Top = 184
+      Width = 1
+      Height = 49
+      Pen.Color = clWhite
+    end
+    object Shape9: TShape
+      Left = 232
+      Top = 184
+      Width = 1
+      Height = 49
+      Pen.Color = clWhite
+    end
+    object Edit1: TEdit
+      Left = 176
+      Top = 64
+      Width = 209
+      Height = 24
+      Font.Charset = RUSSIAN_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Sitka Text'
+      Font.Style = []
+      ParentFont = False
+      TabOrder = 0
+    end
+    object Edit2: TEdit
+      Left = 176
+      Top = 120
+      Width = 209
+      Height = 24
+      Font.Charset = RUSSIAN_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Sitka Text'
+      Font.Style = []
+      ParentFont = False
+      TabOrder = 1
+    end
+    object Button1: TButton
+      Left = 96
+      Top = 192
+      Width = 129
+      Height = 33
+      Caption = #1056#1045#1043#1048#1057#1058#1056#1040#1062#1048#1071
+      Font.Charset = RUSSIAN_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Sitka Text'
+      Font.Style = [fsBold]
+      ParentFont = False
+      TabOrder = 2
+      OnClick = Button1Click
+    end
+    object Button2: TButton
+      Left = 240
+      Top = 192
+      Width = 129
+      Height = 33
+      Caption = #1059#1044#1040#1051#1048#1058#1068
+      Font.Charset = RUSSIAN_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Sitka Text'
+      Font.Style = [fsBold]
+      ParentFont = False
+      TabOrder = 3
+      OnClick = Button2Click
+    end
+    object BitBtn1: TBitBtn
+      Left = 376
+      Top = 248
+      Width = 75
+      Height = 25
+      TabOrder = 4
+      OnClick = BitBtn1Click
+      Glyph.Data = {
+        36030000424D3603000000000000360000002800000010000000100000000100
+        1800000000000003000000000000000000000000000000000000FFFFFFFFFFFF
+        FFFFFFFFFFFFF6DFBEEFC781EAB54FEBB74EECB84FEAB34EEFC781F6DFBEFFFF
+        FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFBF8E7B05FEEC35AF6DA79F7E286F9
+        E388FFEA89FEEC8EF4D777EEC35AE7B05FFEFBF8FFFFFFFFFFFFFFFFFFFEFCF8
+        E19F3FF3D271F6DC80F4D576F4D372F2D372AD5823F4CF62FBE685F6DB80F3D3
+        71E1A040FEFCF8FFFFFFFFFFFFE0A55BF3D06AF9DD7DF5D472F5D572F7D774F5
+        D369C0753E9E4011EDBD4DFBDF78F5D474F2CD68E0A55CFFFFFFF0D7BEE5AF4A
+        F7D66EE8B145E5AC3FE5AE41E7AF42DC9A24C0753EF9FAFB9C3D0DE4A938F8DA
+        70F4D26FE5AE4AF0D7BEE0AD73F6CF5FD89937C0753EC0753EC0753EC0753EC0
+        753EC0753EFFFFFFF5EEEFA85023DD9927FAD76BEFC154E0AD73D38B41FCDB70
+        CE7A0EDCBBB4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFFFFAD58
+        23D58516FCDC73D28C41D08B40FFEE9DCF800FE2BBA8FFFFFFFFFFFFFFFFFFFF
+        FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBC733DE5BC65D49246C67E32FAE795
+        DCA643ECD3B7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFF
+        FFCC935CEECA71C98338C27838F8DC81DFA741F2E2D0FFFFFFFFFFFFFFFFFFFF
+        FFFFFFFFFFFFFFFFFFFFFFF8F4F3CB893FE2AC49FCE186C27738CC9369EECE84
+        E7B34EDB991DDB991DDB991DDB991DDB991DDB991DFFFFFFF9F8F9D09342E3B0
+        45EECA6BEACA80CC9369E3C7B7CD904AF8E495DFAB40DFA32EE0A536E1A83CDB
+        991DDB991DFFFFFFD59840E2A937E7BB58F9E392CC904AE4C7B7FFFFFFB56F47
+        E2B669F7E596E8BD5FE4B349E2AF3FE1A428DB991DDAA256E0A42DE8C162F7E2
+        93E2B667B56F47FFFFFFFFFFFFFCF9F8A74F1ADFAE5AF8E18AF0D47CE8C567E6
+        C162E4AE4EE6BE5AF1D880F8E189DFAF5AA74F1AFCF9F8FFFFFFFFFFFFFFFFFF
+        FCF8F6AD6345C17C2CE2B85BF3D474F5DB7DF7DC7DF3D675E2B85BC17C2CAD63
+        45FCF8F6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDBBFB5BD8463A75824AC
+        6022AB6022A85824BD8463DBBFB5FFFFFFFFFFFFFFFFFFFFFFFF}
+    end
+    object DBGrid1: TDBGrid
+      Left = 392
+      Top = 8
+      Width = 361
+      Height = 89
+      DataSource = DataModule2.DataSource13
+      TabOrder = 5
+      TitleFont.Charset = DEFAULT_CHARSET
+      TitleFont.Color = clWindowText
+      TitleFont.Height = -11
+      TitleFont.Name = 'MS Sans Serif'
+      TitleFont.Style = []
+      Visible = False
+    end
+  end
+end
